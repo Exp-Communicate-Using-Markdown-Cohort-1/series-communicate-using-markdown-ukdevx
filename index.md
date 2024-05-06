@@ -81,3 +81,9 @@ overlay             overlay   490G  9.4G  456G   3% /run/k3s/containerd/io.conta
 overlay             overlay   490G  9.4G  456G   3% /run/k3s/containerd/io.containerd.runtime.v2.task/k8s.io/8229bd142addce766d80619b6deeb853f70a264cecc66cb52e512bdd000a55b5/rootfs
 tmpfs               tmpfs     769M     0  769M   0% /run/user/0
 ```
+
+## add task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
